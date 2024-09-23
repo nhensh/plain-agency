@@ -6,23 +6,23 @@ import Graphic from "Assets/about/graphic.png";
 
 export default [
     {
-        title: "UI/UX",
-        description: "Start with listening to your idea, research, make a wireframe, build a prototype, finalizing the UI/UX.",
+        title: "UI/UX Design",
+        description: "We're all ears when it comes to your ideas! We'll chat about your vision, sketch out some plans, and create a user-friendly design that your customers will love navigating.",
         icon: Ui
     },
     {
         title: "Web Development",
-        description: "Create a highspeed, modern and responsive website and web application for you.",
+        description: "Need a website that works as hard as you do? We'll build you a fast, modern, and mobile-friendly site that looks great on any device and helps grow your business.",
         icon: Web
     },
     {
         title: "App Development",
-        description: "Both Andriod and ios are developing here. We offer a cross-platform solution that is easy to use and maintain.",
+        description: "Got an app idea? We'll bring it to life for both Android and iPhone users. Our apps are easy to use and won't give you headaches when it's time for updates.",
         icon: App
     },
     {
         title: "Graphic Design",
-        description: "We provide all kinds of designs like logos, flyers, visiting cards, social media, etc.",
+        description: "From eye-catching logos to scroll-stopping social media posts, we've got all your design needs covered. Let's make your business look as good as your products or services!",
         icon: Graphic
     }
 ]

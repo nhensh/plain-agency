@@ -12,7 +12,7 @@ const HeroContent = () => {
         <Box sx={styles.Container}>
             <Typography variant="h2" component="h2" sx={styles.Title}>
                 We are <br />
-                Code Station21
+                Plain Agency
             </Typography>
             <Typography variant="h6" component="h6" sx={styles.Slogan}>
                 Your Dream, We Build

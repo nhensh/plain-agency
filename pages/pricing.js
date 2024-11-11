@@ -10,9 +10,7 @@ const Pricing = () => {
   return (
     <Layout>
       <Head>
-        <title>
-          Pricing || Plain-Agency Creative Agency Bootstrap 5 Template
-        </title>
+        <title>Pricing || Plain Agency</title>
       </Head>
 
       <Breadcrumb title="Pricing" current="Pricing" />

@@ -9,9 +9,7 @@ const CommingSoon = () => {
   return (
     <>
       <Head>
-        <title>
-          Comming Soon || Plain-Agency Creative Agency Bootstrap 5 Template
-        </title>
+        <title>Comming Soon || Plain Agency</title>
       </Head>
 
       <ThemeSwitcher />

@@ -37,7 +37,7 @@ const Team = () => {
   return (
     <Layout>
       <Head>
-        <title>Team || Plain-Agency Creative Agency Bootstrap 5 Template</title>
+        <title>Team || Plain Agency </title>
       </Head>
 
       <main className="page-wrapper">

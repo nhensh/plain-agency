@@ -64,9 +64,7 @@ const About = () => {
   return (
     <Layout>
       <Head>
-        <title>
-          About Us || Plain-Agency Creative Agency Bootstrap5 Template
-        </title>
+        <title>About Us || Plain Agency</title>
       </Head>
 
       <main className="page-wrapper">
@@ -106,15 +104,15 @@ const About = () => {
                       <Link
                         href={`/case-study/${slugify(CaseStudyData[0].title)}`}
                       >
-                        <a>Building software for world changers </a>
+                        <a>Building software for start up</a>
                       </Link>
                     </h2>
                     <p className="subtitle-2">
-                      Donec metus lorem, vulputate at sapien sit amet, auctor
-                      iaculis lorem. In vel hendrerit nisi. Vestibulum eget
-                      risus velit. Aliquam tristique libero at dui sodales, et
-                      placerat orci lobortis. Maecenas ipsum neque, elementum id
-                      dignissim et, imperdiet vitae mauris.
+                      We partnered with a dynamic start-up to create a
+                      high-converting landing page that effectively showcases
+                      their innovative solutions. Our design and development
+                      process focused on user experience, resulting in increased
+                      engagement and conversion rates.
                     </p>
                     <Link
                       href={`/case-study/${slugify(CaseStudyData[0].title)}`}

@@ -21,7 +21,7 @@ const Logo = ({ variant = "one", fillTextColor = "#00004B" }) => {
                 fill={fillTextColor}
               >
                 <tspan x="75" y="24">
-                  Plain-Agency
+                  Plain Agency
                 </tspan>
                 <tspan
                   x="175.14"
@@ -36,9 +36,7 @@ const Logo = ({ variant = "one", fillTextColor = "#00004B" }) => {
                   fontSize="18"
                   fontWeight="normal"
                 >
-                  {variant === "two"
-                    ? "Small agency studio"
-                    : "Startup template"}
+                  Simple digital solutions
                 </tspan>
               </text>
               <g id="Favicon">

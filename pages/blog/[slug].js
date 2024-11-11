@@ -31,9 +31,7 @@ const BlogDetails = ({ blogdata, slug, content, allPosts }) => {
   return (
     <Layout>
       <Head>
-        <title>
-          Blog Details || Plain-Agency Creative Agency Bootstrap5 Template
-        </title>
+        <title>Blog Details || Plain Agency</title>
       </Head>
 
       <Breadcrumb

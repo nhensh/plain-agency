@@ -28,9 +28,7 @@ const HomeTwo = ({ posts }) => {
   return (
     <Layout layoutSettings={layoutSettings}>
       <Head>
-        <title>
-          Home 02 || Plain-Agency Creative Agency Bootstrap5 Template
-        </title>
+        <title>Home 02 || Plain Agency</title>
       </Head>
 
       <main className="page-wrapper">

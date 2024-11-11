@@ -24,9 +24,7 @@ const HomeFour = ({ posts }) => {
   return (
     <Layout layoutSettings={layoutSettings}>
       <Head>
-        <title>
-          Home 04 || Plain-Agency Creative Agency Bootstrap5 Template
-        </title>
+        <title>Home 04 || Plain Agency</title>
       </Head>
 
       <main className="page-wrappper">

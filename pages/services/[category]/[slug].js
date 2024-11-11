@@ -37,9 +37,7 @@ const ServiceDetails = ({ service }) => {
   return (
     <Layout>
       <Head>
-        <title>
-          {service.title} || Plain-Agency Creative Agency Bootstrap5 Template
-        </title>
+        <title>{service.title} || Plain Agency</title>
       </Head>
 
       <div className="main-wrapper">

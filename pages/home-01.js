@@ -57,7 +57,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Plain-Agency Creative Agency Bootstrap 5 Template</title>
+        <title>Plain-Agency </title>
       </Head>
       <div className="main-content">
         <div className="wrapper position-relative">

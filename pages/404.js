@@ -7,7 +7,7 @@ const ErrorPage = () => {
   return (
     <Layout showFooter={false}>
       <Head>
-        <title>404 || Plain-Agency Creative Agency Bootstrap 5 Template</title>
+        <title>404 || Plain Agency </title>
       </Head>
 
       <main className="page-wrapper page-error">
@@ -19,9 +19,8 @@ const ErrorPage = () => {
                   <div className="inner">
                     <h1 className="title mb--20">Page not Found</h1>
                     <p className="subtitle-2 mb--30">
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                      Enim, recusandae <br /> consectetur nesciunt magnam
-                      facilis aliquid amet earum alias?
+                      The page you are looking for might have been removed had
+                      its name changed or it just does not exist.
                     </p>
                     <Link href="/">
                       <a className="axil-button btn-large btn-transparent">

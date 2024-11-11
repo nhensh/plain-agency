@@ -9,9 +9,7 @@ const Contact = () => {
   return (
     <Layout>
       <Head>
-        <title>
-          Contact || Plain-Agency Creative Agency Bootstrap5 Template
-        </title>
+        <title>Contact || Plain Agency</title>
       </Head>
 
       <Breadcrumb title="Contact" current="Contact" />

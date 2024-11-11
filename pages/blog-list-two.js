@@ -39,9 +39,7 @@ const BlogListTwo = ({ posts }) => {
   return (
     <Layout>
       <Head>
-        <title>
-          Blog List || Plain-Agency Creative Agency Bootstrap5 Template
-        </title>
+        <title>Blog List || Plain Agency</title>
       </Head>
 
       <Breadcrumb />

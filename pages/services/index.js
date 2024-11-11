@@ -80,9 +80,7 @@ const Services = () => {
   return (
     <Layout>
       <Head>
-        <title>
-          Services || Plain-Agency Creative Agency Bootstrap5 Template
-        </title>
+        <title>Services || Plain Agency</title>
       </Head>
 
       <main className="page-wrapper">

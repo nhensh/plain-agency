@@ -43,9 +43,7 @@ const TeamDetails = ({ teamData }) => {
   return (
     <Layout>
       <Head>
-        <title>
-          Team Details || Plain-Agency Creative Agency Bootstrap 5 Template
-        </title>
+        <title>Team Details || Plain Agency</title>
       </Head>
 
       <main className="page-wrapper">

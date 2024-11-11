@@ -47,7 +47,7 @@ const Blog = ({ posts }) => {
   return (
     <Layout>
       <Head>
-        <title>Blog || Plain-Agency Creative Agency Bootstrap5 Template</title>
+        <title>Blog || Plain Agency </title>
       </Head>
 
       <Breadcrumb />

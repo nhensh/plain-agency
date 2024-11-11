@@ -17,9 +17,7 @@ const CaseStudy = () => {
   return (
     <Layout>
       <Head>
-        <title>
-          Case Study || Plain-Agency Creative Agency Bootstrap 5 Template
-        </title>
+        <title>Case Study || Plain Agency</title>
       </Head>
 
       <main className="page-wrapper">

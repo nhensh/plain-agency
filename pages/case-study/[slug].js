@@ -44,7 +44,7 @@ const CaseStudyDetails = ({ caseStudy }) => {
     <Layout>
       <Head>
         <title>
-          Case Study Details || Plain-Agency Creative Agency Bootstrap 5
+          Case Study Details || Plain Agency Creative Agency Bootstrap 5
           Template
         </title>
       </Head>

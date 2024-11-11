@@ -7,9 +7,7 @@ const Portfolio = () => {
   return (
     <Layout>
       <Head>
-        <title>
-          Portfolio || Plain-Agency Creative Agency Bootstrap5 Template
-        </title>
+        <title>Portfolio || Plain Agency</title>
       </Head>
 
       <main className="page-wrapper">

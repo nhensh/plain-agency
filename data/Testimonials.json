@@ -4,19 +4,49 @@
     "client": {
       "id": 1,
       "image": "/images/testimonial/client-01.jpg",
-      "fullName": "Martha Maldonado",
-      "designation": "Executive Chairman @ Google"
+      "fullName": "Sarah Thompson",
+      "designation": "Operations Director, The Warwickshire Restaurant Group"
     },
-    "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit."
+    "description": "Plain Agency transformed our digital presence completely. The new booking system has streamlined our operations, and their marketing strategy helped us reach new customers we never thought possible. The 150% increase in online bookings speaks for itself. Their understanding of the local market made all the difference."
   },
   {
     "id": 2,
     "client": {
       "id": 2,
       "image": "/images/testimonial/client-02.jpg",
-      "fullName": "Martha Maldonado",
-      "designation": "Executive Chairman @ Google"
+      "fullName": "James Harrison",
+      "designation": "Founder, Warwickshire Artisans Marketplace"
     },
-    "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit."
+    "description": "Working with Plain Agency to build our marketplace platform was a game-changer. They understood exactly what our local artisans needed and delivered a solution that exceeded our expectations. Within just three months, we had 50 active vendors and sales surpassing £100,000. Their technical expertise and attention to detail are outstanding."
+  },
+  {
+    "id": 3,
+    "client": {
+      "id": 3,
+      "image": "/images/testimonial/client-03.jpg",
+      "fullName": "Emma Roberts",
+      "designation": "CEO, TechStart Warwickshire"
+    },
+    "description": "Plain Agency's approach to our brand launch was exceptional. They created a strong brand identity and executed a brilliant social media strategy that helped us build a community of over 10,000 followers before our product launch. Their understanding of both technical and marketing aspects made them the perfect partner for our startup."
+  },
+  {
+    "id": 4,
+    "client": {
+      "id": 4,
+      "image": "/images/testimonial/client-04.jpg",
+      "fullName": "Michael Davies",
+      "designation": "Director, Warwickshire Property Solutions"
+    },
+    "description": "The property management portal Plain Agency developed for us has revolutionized how we work. The 60% reduction in administrative workload has allowed us to focus more on growing our business. Their team's expertise in UX design and web development delivered exactly what we needed."
+  },
+  {
+    "id": 5,
+    "client": {
+      "id": 5,
+      "image": "/images/testimonial/client-05.jpg",
+      "fullName": "Rachel Wilson",
+      "designation": "Marketing Manager, Warwickshire Retail Chain"
+    },
+    "description": "Our digital marketing campaign with Plain Agency exceeded all expectations. The 200% ROI on our ad spend and 75% increase in foot traffic transformed our business. Their data-driven approach and deep understanding of local consumer behavior made all the difference."
   }
 ]

@@ -7,75 +7,75 @@
       "height": 700
     },
     "category": [
-      "ios",
-      "design"
+      "Web Development",
+      "Digital Marketing"
     ],
-    "title": "Archi- Online platform and website design",
+    "title": "Warwickshire Restaurant Chain Digital Transformation",
     "counter": [
       {
-        "title": "ROI increase",
-        "amount": 15
+        "title": "Booking Increase",
+        "amount": 150
       },
       {
-        "title": "Monthly website visits",
-        "amount": 60
+        "title": "Monthly Website Visits",
+        "amount": 25000
       }
     ],
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
+    "videoUrl": "",
     "projectBreif1": {
       "image": "/images/case-study/case-study-brief-01.jpg",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "The client, a prominent Warwickshire restaurant chain with multiple locations, needed a complete digital transformation to streamline their booking process and enhance their online presence. Their existing website was outdated, difficult to maintain, and didn't reflect their premium dining experience.",
+        "Key challenges included managing bookings across multiple locations, maintaining up-to-date menus, and creating a cohesive digital marketing strategy to increase visibility in the competitive Warwickshire dining scene."
       ]
     },
     "projectBreif2": {
       "image": "",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "Our approach focused on creating a seamless digital experience that would match the quality of their in-restaurant service. We identified the need for an integrated booking system, real-time menu updates, and a robust content management system that could be easily maintained by their staff.",
+        "The digital marketing strategy needed to target both locals and tourists, emphasizing the unique dining experience and local sourcing of ingredients that sets them apart from competitors."
       ]
     },
     "solution": {
       "image": "",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "We developed a modern, responsive WordPress website with a custom booking system integrated across all locations. The solution included a centralized menu management system, allowing staff to update menus in real-time across all digital platforms.",
+        "Our digital marketing campaign combined local SEO optimization, targeted social media advertising, and email marketing to reach both existing and potential customers. We implemented tracking systems to measure campaign effectiveness and customer engagement."
       ]
     },
     "process": {
-      "title": "Our design process",
-      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "title": "Our Development Process",
+      "description": "A strategic approach ensuring successful digital transformation and measurable results.",
       "strategies": [
         {
           "id": 1,
-          "title": "Discover",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Discovery & Planning",
+          "subtitle": "Understanding needs and objectives",
+          "description": "We conducted extensive research into the client's business operations, customer base, and competition. This included user interviews, competitor analysis, and workflow mapping to identify key requirements and opportunities for improvement.",
           "highlightColor": "extra04-color",
           "image": "/images/process/process-01.jpg"
         },
         {
           "id": 2,
-          "title": "Prototype",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Design & UX",
+          "subtitle": "Creating the perfect experience",
+          "description": "Our design team created wireframes and prototypes focusing on user experience, particularly for the booking process and menu presentation. We ensured the design reflected the premium brand while maintaining ease of use across all devices.",
           "highlightColor": "extra05-color",
           "image": "/images/process/process-02.jpg"
         },
         {
           "id": 3,
-          "title": "Test",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Development",
+          "subtitle": "Building robust solutions",
+          "description": "We developed a custom WordPress solution with integrated booking system, menu management, and content management capabilities. The development process included regular testing and client feedback to ensure all requirements were met.",
           "highlightColor": "extra06-color",
           "image": "/images/process/process-03.jpg"
         },
         {
           "id": 4,
-          "title": "Build",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Launch & Optimization",
+          "subtitle": "Delivering results",
+          "description": "Post-launch, we implemented a comprehensive digital marketing strategy, including local SEO, social media campaigns, and performance monitoring. Regular optimization ensures continued improvement in bookings and engagement.",
           "highlightColor": "extra07-color",
           "image": "/images/process/process-04.jpg"
         }
@@ -90,75 +90,75 @@
       "height": 700
     },
     "category": [
-      "ios",
-      "design"
+      "E-commerce",
+      "Digital Marketing"
     ],
-    "title": "Blogar- Magazine platform and website design",
+    "title": "Warwickshire Artisan Marketplace Success Story",
     "counter": [
       {
-        "title": "ROI increase",
-        "amount": 15
+        "title": "Active Vendors",
+        "amount": 50
       },
       {
-        "title": "Monthly website visits",
-        "amount": 60
+        "title": "First Quarter Sales (£k)",
+        "amount": 100
       }
     ],
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
+    "videoUrl": "",
     "projectBreif1": {
       "image": "/images/case-study/case-study-brief-02.jpg",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "Local artisans in Warwickshire needed a dedicated online platform to showcase and sell their handcrafted products. The challenge was to create a marketplace that could support multiple vendors while maintaining a cohesive shopping experience for customers.",
+        "The platform needed to handle complex vendor management, secure payments, and provide detailed analytics for both administrators and individual vendors."
       ]
     },
     "projectBreif2": {
       "image": "",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "Our solution needed to balance the unique needs of artisan vendors with a seamless shopping experience for customers. This included developing a robust vendor onboarding process, product management system, and commission structure.",
+        "The platform also needed to showcase the unique stories and craftsmanship of each artisan while maintaining a consistent brand experience."
       ]
     },
     "solution": {
       "image": "",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "We developed a custom WooCommerce-based marketplace with advanced multi-vendor functionality. The platform includes automated vendor payouts, detailed analytics dashboards, and a streamlined product management system.",
+        "Each vendor has their own branded storefront while maintaining consistent navigation and checkout processes. The platform also includes features for highlighting artisan stories and showcasing their craftsmanship."
       ]
     },
     "process": {
-      "title": "Our design process",
-      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "title": "Our E-commerce Process",
+      "description": "Building a successful multi-vendor marketplace through careful planning and execution.",
       "strategies": [
         {
           "id": 1,
-          "title": "Discover",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Research & Planning",
+          "subtitle": "Understanding the market",
+          "description": "We conducted extensive research into multi-vendor marketplaces, artisan needs, and customer expectations. This helped us design a platform that would serve both vendors and customers effectively.",
           "highlightColor": "extra04-color",
           "image": "/images/process/process-01.jpg"
         },
         {
           "id": 2,
-          "title": "Prototype",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Platform Design",
+          "subtitle": "Creating the marketplace",
+          "description": "Our design focused on creating an intuitive interface for both vendors and customers, with careful attention to product presentation and vendor storytelling opportunities.",
           "highlightColor": "extra05-color",
           "image": "/images/process/process-02.jpg"
         },
         {
           "id": 3,
-          "title": "Test",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Development",
+          "subtitle": "Building the infrastructure",
+          "description": "We developed custom plugins and integrations to handle vendor management, commission calculations, and automated payouts. The platform was built with scalability in mind.",
           "highlightColor": "extra06-color",
           "image": "/images/process/process-03.jpg"
         },
         {
           "id": 4,
-          "title": "Build",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Launch & Growth",
+          "subtitle": "Scaling the marketplace",
+          "description": "We implemented a vendor onboarding strategy and marketing campaign to attract both vendors and customers. Continuous optimization ensures platform growth and success.",
           "highlightColor": "extra07-color",
           "image": "/images/process/process-04.jpg"
         }
@@ -173,406 +173,75 @@
       "height": 700
     },
     "category": [
-      "ios",
-      "design"
+      "Branding",
+      "Social Media"
     ],
-    "title": "eTrade- Ecommerce platform and website design",
+    "title": "Tech Startup Brand Launch Campaign",
     "counter": [
       {
-        "title": "ROI increase",
-        "amount": 15
+        "title": "Social Media Followers",
+        "amount": 10000
       },
       {
-        "title": "Monthly website visits",
-        "amount": 60
+        "title": "Brand Engagement Rate",
+        "amount": 25
       }
     ],
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
+    "videoUrl": "",
     "projectBreif1": {
       "image": "/images/case-study/case-study-brief-03.jpg",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "A Warwickshire-based tech startup needed to establish a strong brand presence and generate buzz before their product launch. They required a comprehensive brand identity and digital marketing strategy to position themselves in the competitive tech market.",
+        "The challenge was to create a distinctive brand voice that would resonate with both technical and non-technical audiences while building anticipation for their upcoming product launch."
       ]
     },
     "projectBreif2": {
       "image": "",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "Our approach focused on creating a modern, tech-forward brand identity that would stand out in the market. This included developing a complete visual language, tone of voice, and content strategy.",
+        "The social media strategy needed to build community engagement and establish the brand as a thought leader in their space before the product launch."
       ]
     },
     "solution": {
       "image": "",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "We developed a complete brand identity package including logo design, color palette, typography, and brand guidelines. The visual identity was implemented across all digital touchpoints including website, social media, and marketing materials.",
+        "Our social media campaign focused on creating engaging content that showcased the company's expertise and product development journey, building anticipation for the launch."
       ]
     },
     "process": {
-      "title": "Our design process",
-      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
+      "title": "Our Branding Process",
+      "description": "Creating a powerful brand presence through strategic planning and execution.",
       "strategies": [
         {
           "id": 1,
-          "title": "Discover",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Brand Strategy",
+          "subtitle": "Defining the foundation",
+          "description": "We developed a comprehensive brand strategy including positioning, messaging, and target audience analysis to ensure the brand would resonate with key stakeholders.",
           "highlightColor": "extra04-color",
           "image": "/images/process/process-01.jpg"
         },
         {
           "id": 2,
-          "title": "Prototype",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Identity Design",
+          "subtitle": "Creating the look",
+          "description": "Our design team created a modern, distinctive visual identity that reflected the company's innovative nature while ensuring versatility across all applications.",
           "highlightColor": "extra05-color",
           "image": "/images/process/process-02.jpg"
         },
         {
           "id": 3,
-          "title": "Test",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Content Strategy",
+          "subtitle": "Building engagement",
+          "description": "We developed a content strategy that combined thought leadership, product development updates, and community engagement to build anticipation for the launch.",
           "highlightColor": "extra06-color",
           "image": "/images/process/process-03.jpg"
         },
         {
           "id": 4,
-          "title": "Build",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra07-color",
-          "image": "/images/process/process-04.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": 4,
-    "thumbnail": {
-      "src": "/images/case-study/case-study-04.jpg",
-      "width": 600,
-      "height": 700
-    },
-    "category": [
-      "ios",
-      "design"
-    ],
-    "title": "Abstract- Online platform and agency design",
-    "counter": [
-      {
-        "title": "ROI increase",
-        "amount": 15
-      },
-      {
-        "title": "Monthly website visits",
-        "amount": 60
-      }
-    ],
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
-    "projectBreif1": {
-      "image": "/images/case-study/case-study-brief-04.jpg",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "projectBreif2": {
-      "image": "",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "solution": {
-      "image": "",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "process": {
-      "title": "Our design process",
-      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
-      "strategies": [
-        {
-          "id": 1,
-          "title": "Discover",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra04-color",
-          "image": "/images/process/process-01.jpg"
-        },
-        {
-          "id": 2,
-          "title": "Prototype",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra05-color",
-          "image": "/images/process/process-02.jpg"
-        },
-        {
-          "id": 3,
-          "title": "Test",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra06-color",
-          "image": "/images/process/process-03.jpg"
-        },
-        {
-          "id": 4,
-          "title": "Build",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra07-color",
-          "image": "/images/process/process-04.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": 5,
-    "thumbnail": {
-      "src": "/images/case-study/case-study-05.jpg",
-      "width": 600,
-      "height": 400
-    },
-    "category": [
-      "2019"
-    ],
-    "title": "Product photography",
-    "counter": [
-      {
-        "title": "ROI increase",
-        "amount": 15
-      },
-      {
-        "title": "Monthly website visits",
-        "amount": 60
-      }
-    ],
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
-    "projectBreif1": {
-      "image": "/images/case-study/case-study-brief-05.jpg",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "projectBreif2": {
-      "image": "",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "solution": {
-      "image": "",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "process": {
-      "title": "Our design process",
-      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
-      "strategies": [
-        {
-          "id": 1,
-          "title": "Discover",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra04-color",
-          "image": "/images/process/process-01.jpg"
-        },
-        {
-          "id": 2,
-          "title": "Prototype",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra05-color",
-          "image": "/images/process/process-02.jpg"
-        },
-        {
-          "id": 3,
-          "title": "Test",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra06-color",
-          "image": "/images/process/process-03.jpg"
-        },
-        {
-          "id": 4,
-          "title": "Build",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra07-color",
-          "image": "/images/process/process-04.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": 6,
-    "thumbnail": {
-      "src": "/images/case-study/case-study-06.jpg",
-      "width": 600,
-      "height": 400
-    },
-    "category": [
-      "2019"
-    ],
-    "title": "Illustration",
-    "counter": [
-      {
-        "title": "ROI increase",
-        "amount": 15
-      },
-      {
-        "title": "Monthly website visits",
-        "amount": 60
-      }
-    ],
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
-    "projectBreif1": {
-      "image": "/images/case-study/case-study-brief-06.jpg",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "projectBreif2": {
-      "image": "",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "solution": {
-      "image": "",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "process": {
-      "title": "Our design process",
-      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
-      "strategies": [
-        {
-          "id": 1,
-          "title": "Discover",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra04-color",
-          "image": "/images/process/process-01.jpg"
-        },
-        {
-          "id": 2,
-          "title": "Prototype",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra05-color",
-          "image": "/images/process/process-02.jpg"
-        },
-        {
-          "id": 3,
-          "title": "Test",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra06-color",
-          "image": "/images/process/process-03.jpg"
-        },
-        {
-          "id": 4,
-          "title": "Build",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra07-color",
-          "image": "/images/process/process-04.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": 7,
-    "thumbnail": {
-      "src": "/images/about/mokup.png",
-      "width": 550,
-      "height": 632
-    },
-    "bannerImage": "/images/case-study/mokup.jpg",
-    "category": [
-      "branding",
-      "design"
-    ],
-    "title": "Godaddy- Online platform and website design",
-    "counter": [
-      {
-        "title": "ROI increase",
-        "amount": 15
-      },
-      {
-        "title": "Monthly website visits",
-        "amount": 60
-      }
-    ],
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
-    "projectBreif1": {
-      "image": "/images/case-study/case-study-brief-01.jpg",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "projectBreif2": {
-      "image": "",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "solution": {
-      "image": "",
-      "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
-      ]
-    },
-    "process": {
-      "title": "Our design process",
-      "description": "Our comprehensive design strategy ensures a perfectly crafted design for your business.",
-      "strategies": [
-        {
-          "id": 1,
-          "title": "Discover",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra04-color",
-          "image": "/images/process/process-01.jpg"
-        },
-        {
-          "id": 2,
-          "title": "Prototype",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra05-color",
-          "image": "/images/process/process-02.jpg"
-        },
-        {
-          "id": 3,
-          "title": "Test",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra06-color",
-          "image": "/images/process/process-03.jpg"
-        },
-        {
-          "id": 4,
-          "title": "Build",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "title": "Launch & Growth",
+          "subtitle": "Driving results",
+          "description": "The brand launch campaign included coordinated social media activities, influencer partnerships, and content marketing to rapidly build brand awareness and engagement.",
           "highlightColor": "extra07-color",
           "image": "/images/process/process-04.jpg"
         }

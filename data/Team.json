@@ -1,28 +1,28 @@
-{
-  "team": [
-    {
-      "id": 2,
-      "name": "Nathan Hensher",
-      "image": "/images/team/team-02.jpg",
-      "designation": "Technical Director",
-      "description": "Nathan brings 15 years of technical expertise to our development team. He ensures all our digital solutions are built with scalability, security, and performance in mind.",
-      "social": {
-        "facebook": "#",
-        "twitter": "#",
-        "linkedin": "#"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Amy Ellis",
-      "image": "/images/team/team-03.jpg",
-      "designation": "Marketing Strategist",
-      "description": "Amy specialises in creating data-driven marketing strategies that deliver measurable results. She helps our clients navigate the digital landscape and achieve their growth objectives.",
-      "social": {
-        "facebook": "#",
-        "twitter": "#",
-        "linkedin": "#"
-      }
-    }
-  ]
-}
+[
+  {
+    "id": 2,
+    "name": "Nathan Hensher",
+    "image": "/images/team/team-02.jpg",
+    "designation": "Technical Director",
+    "department": ["Management", "Technical"],
+    "socials": [
+      { "type": "facebook", "url": "#" },
+      { "type": "twitter", "url": "#" },
+      { "type": "linkedin", "url": "#" }
+    ],
+    "introduction": "Nathan brings 15 years of technical expertise to our development team. He ensures all our digital solutions are built with scalability, security, and performance in mind."
+  },
+  {
+    "id": 3,
+    "name": "Amy Ellis",
+    "image": "/images/team/team-03.jpg",
+    "designation": "Marketing Strategist",
+    "department": ["Marketing", "Strategy"],
+    "socials": [
+      { "type": "facebook", "url": "#" },
+      { "type": "twitter", "url": "#" },
+      { "type": "linkedin", "url": "#" }
+    ],
+    "introduction": "Amy specialises in creating data-driven marketing strategies that deliver measurable results. She helps our clients navigate the digital landscape and achieve their growth objectives."
+  }
+]

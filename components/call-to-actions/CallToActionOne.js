@@ -1,4 +1,5 @@
 import SectionTitle from '../common/SectionTitle';
+import { CONTACT_INFO } from "../../constants/contact";
 
 const CallToActionOne = () => {
     return (
@@ -22,10 +23,10 @@ const CallToActionOne = () => {
                                     <span className="text">
                                       Or call us now
                                     </span>
-                                    <span>
-                                      <i className="fal fa-phone-alt"/>
-                                      <a href="tel:(123) 456 7890">(123) 456 7890</a>
-                                    </span>
+                                    <div className="number">
+                                        <i className="fas fa-phone-alt"/>
+                                        <a href={`tel:${CONTACT_INFO.phone}`}>{CONTACT_INFO.phoneFormatted}</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>

@@ -5,6 +5,12 @@
     "subtitle": "Digital Transformation Success",
     "description": "Complete digital transformation for a leading Warwickshire restaurant chain, including a modern booking system, menu management, and comprehensive digital marketing strategy. Achieved 150% increase in online bookings and significantly enhanced customer experience.",
     "image": "/images/featured/featured-image-01.jpg",
+    "category": ["Digital Transformation", "Web Development"],
+    "thumbnail": {
+      "src": "/images/featured/featured-image-01.jpg",
+      "width": 800,
+      "height": 600
+    },
     "counter": [
       {
         "title": "Booking Increase",
@@ -82,6 +88,12 @@
     "subtitle": "E-commerce Success Story",
     "description": "Created a thriving online marketplace for Warwickshire artisans, featuring multi-vendor capabilities, secure payments, and comprehensive analytics. Launched with 50+ vendors and achieved £100,000+ in sales within the first quarter.",
     "image": "/images/featured/featured-image-02.jpg",
+    "category": ["E-commerce", "Web Development"],
+    "thumbnail": {
+      "src": "/images/featured/featured-image-02.jpg",
+      "width": 800,
+      "height": 600
+    },
     "counter": [
       {
         "title": "Active Vendors",
@@ -159,6 +171,12 @@
     "subtitle": "Brand Launch & Digital Marketing",
     "description": "Comprehensive brand development and digital marketing campaign for a Warwickshire tech startup. Created strong brand identity and social media presence, achieving over 10,000 followers and significant market presence before product launch.",
     "image": "/images/featured/featured-image-03.jpg",
+    "category": ["Branding", "Digital Marketing"],
+    "thumbnail": {
+      "src": "/images/featured/featured-image-03.jpg",
+      "width": 800,
+      "height": 600
+    },
     "counter": [
       {
         "title": "Social Media Followers",

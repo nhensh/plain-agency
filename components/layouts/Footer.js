@@ -2,6 +2,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import Logo from "../common/Logo";
 import FooterMenu from "../../data/FooterMenu";
+import { CONTACT_INFO } from "../../constants/contact";
 
 const Footer = ({ footerSetting = {} }) => {
   const [footerSettings, setFooterSettings] = useState({});
@@ -73,7 +74,7 @@ const Footer = ({ footerSetting = {} }) => {
                           <Link href="/contact">
                             <a className="axil-button btn-large btn-solid bgextra07-color">
                               <span className="button-text">
-                                Let&rsquo;s Talk
+                                Let’s Talk
                               </span>
                               <span className="button-icon" />
                             </a>
@@ -141,12 +142,14 @@ const Footer = ({ footerSetting = {} }) => {
                                 73601&sbquo; Londan
                               </p>
                               <p>
-                                <span>T.</span>
-                                <a href="#">+123 4567 8901</a>
+                                <a href={`mailto:${CONTACT_INFO.email}`}>
+                                  {CONTACT_INFO.email}
+                                </a>
                               </p>
                               <p>
-                                <span>E.</span>
-                                <a href="#">contact@Plain-Agency.com</a>
+                                <a href={`tel:${CONTACT_INFO.phone}`}>
+                                  {CONTACT_INFO.phoneFormatted}
+                                </a>
                               </p>
                             </div>
                           </div>
@@ -242,15 +245,15 @@ const Footer = ({ footerSetting = {} }) => {
                 </div>
               </div>
             </div>
-          </>
-        )}
+          </>)
+        }
 
         <div className="copyright copyright-default">
           <div className="container">
             <div className="row row--0 ptb--20 axil-basic-thine-line">
               <div className="col-lg-6 col-md-6 col-sm-12 col-12">
                 <div className="inner text-center text-md-start">
-                  <p>© 2022. All rights reserved by Your Company.</p>
+                  <p> 2022. All rights reserved by Your Company.</p>
                 </div>
               </div>
               <div className="col-lg-6 col-md-6 col-sm-12 col-12">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Router from "next/router";
 import { useEffect } from "react";
+import { CONTACT_INFO } from "../../constants/contact";
 
 const SideNav = ({ toggleSidenav }) => {
   const closeSideNav = () => {
@@ -37,98 +38,49 @@ const SideNav = ({ toggleSidenav }) => {
         </form>
 
         <div className="side-nav-content">
-          <div className="row ">
-            <div className="col-lg-5 col-xl-6 col-12">
+          <div className="row">
+            <div className="col-lg-6 col-12">
               <ul className="main-navigation">
                 <li>
-                  <Link href="/">Digital Agency</Link>
+                  <Link href="/">Home</Link>
                 </li>
                 <li>
-                  <Link href="/home-02">Creative Agency</Link>
+                  <Link href="/services">Services</Link>
                 </li>
                 <li>
-                  <Link href="/home-03">Personal Portfolio</Link>
+                  <Link href="/about">About</Link>
                 </li>
                 <li>
-                  <Link href="/home-04">Home Startup</Link>
+                  <Link href="/blog">Blog</Link>
                 </li>
                 <li>
-                  <Link href="/home-05">Corporate Agency</Link>
+                  <Link href="/contact">Contact</Link>
                 </li>
               </ul>
             </div>
 
-            <div className="col-lg-7 col-xl-6 col-12">
+            <div className="col-lg-6 col-12">
               <div className="axil-contact-info-inner">
                 <div className="axil-contact-info">
                   <address className="address">
                     <span className="title">Contact Information</span>
-                    <p>
-                      Theodore Lowe&sbquo; Ap #867-859 <br /> Sit Rd&sbquo;
-                      Azusa New York
-                    </p>
+                    <p>{CONTACT_INFO.contactMessage}</p>
                   </address>
                   <address className="address">
-                    <span className="title">
-                      We&lsquo;re Available 24/ 7. Call Now.
-                    </span>
+                    <span className="title">Contact Us</span>
                     <p>
-                      <a className="tel" href="tel:8884562790">
-                        <i className="fas fa-phone" />
-                        (888) 456-2790
+                      <a className="tel" href={`mailto:${CONTACT_INFO.email}`}>
+                        <i className="fas fa-envelope" />
+                        {CONTACT_INFO.email}
                       </a>
                     </p>
                     <p>
-                      <a className="tel" href="tel:12125553333">
-                        <i className="fas fa-fax" />
-                        (121) 255-53333
+                      <a className="tel" href={`tel:${CONTACT_INFO.phone}`}>
+                        <i className="fas fa-phone" />
+                        {CONTACT_INFO.phoneFormatted}
                       </a>
                     </p>
                   </address>
-                </div>
-
-                <div className="axil-contact-info">
-                  <h5 className="title">Find us here</h5>
-                  <div className="contact-social-share d-flex align-items-center">
-                    <ul className="social-share style-rounded">
-                      <li>
-                        <a
-                          href="https://www.facebook.com/"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          <i className="fab fa-facebook-f" />
-                        </a>
-                      </li>
-                      <li>
-                        <a
-                          href="https://twitter.com/"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          <i className="fa-brands fa-x-twitter" />
-                        </a>
-                      </li>
-                      <li>
-                        <a
-                          href="https://www.behance.net/"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          <i className="fab fa-behance" />
-                        </a>
-                      </li>
-                      <li>
-                        <a
-                          href="https://www.linkedin.com/"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          <i className="fab fa-linkedin-in" />
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
                 </div>
               </div>
             </div>

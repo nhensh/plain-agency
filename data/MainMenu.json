@@ -12,29 +12,24 @@
     "children": [
       {
         "id": 1,
-        "title": "Design",
-        "url": "/services/default/design"
+        "title": "Web Development",
+        "url": "/services/development/web-development"
       },
       {
         "id": 2,
-        "title": "Development",
-        "url": "/services/default/development"
+        "title": "Digital Marketing",
+        "url": "/services/marketing/digital-marketing"
       },
       {
         "id": 3,
-        "title": "Marketing",
-        "url": "/services/default/marketing"
-      },
-      {
-        "id": 4,
-        "title": "Consulting",
-        "url": "/services/default/consulting"
+        "title": "Brand Development",
+        "url": "/services/design/brand-development"
       }
     ]
   },
   {
     "id": 3,
-    "title": "About Us",
+    "title": "About",
     "url": "/about",
     "hasChildren": false
   },
@@ -44,7 +39,7 @@
     "url": "/blog"
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "Contact",
     "url": "/contact",
     "hasChildren": false

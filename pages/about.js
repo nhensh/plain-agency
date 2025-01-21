@@ -24,37 +24,37 @@ const About = () => {
     strategies: [
       {
         id: 1,
-        title: "Discover",
+        title: "Digital Excellence",
         subtitle: "our four step process",
         description:
-          "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "We combine technical expertise with creative innovation to deliver digital solutions that drive real business results. Our approach focuses on understanding your unique needs and crafting solutions that exceed expectations.",
         highlightColor: "extra04-color",
         image: "/images/process/process-01.jpg",
       },
       {
         id: 2,
-        title: "Prototype",
+        title: "Strategic Thinking",
         subtitle: "our four step process",
         description:
-          "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "Every project begins with thorough strategic planning. We analyse your market position, identify opportunities, and develop comprehensive strategies that align with your business objectives and growth targets.",
         highlightColor: "extra05-color",
         image: "/images/process/process-02.jpg",
       },
       {
         id: 3,
-        title: "Test",
+        title: "Client Partnership",
         subtitle: "our four step process",
         description:
-          "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "We believe in building strong, lasting partnerships with our clients. Our collaborative approach ensures that we understand your vision completely and work together to achieve your digital goals effectively.",
         highlightColor: "extra06-color",
         image: "/images/process/process-03.jpg",
       },
       {
         id: 4,
-        title: "Build",
+        title: "Measured Results",
         subtitle: "our four step process",
         description:
-          "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "Success is measured in real business outcomes. We focus on delivering measurable results through data-driven decisions, continuous optimization, and transparent reporting on all our digital initiatives.",
         highlightColor: "extra07-color",
         image: "/images/process/process-04.jpg",
       },

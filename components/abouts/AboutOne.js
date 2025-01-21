@@ -1,4 +1,5 @@
 import ContactFormOne from "../forms/ContactFormOne";
+import { CONTACT_INFO } from "../../constants/contact";
 
 const AboutOne = () => {
   return (
@@ -56,7 +57,7 @@ const AboutOne = () => {
                   <span className="text">Or call us now</span>
                   <span>
                     <i className="fal fa-phone-alt"></i>{" "}
-                    <a href="#">(123) 456 7890</a>
+                    <a href={`tel:${CONTACT_INFO.phone}`}>{CONTACT_INFO.phoneFormatted}</a>
                   </span>
                 </div>
               </div>

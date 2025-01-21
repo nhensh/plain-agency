@@ -1,110 +1,28 @@
-[
-  {
-    "id": 1,
-    "name": "Nathan Hensher",
-    "image": "/images/team/team-01.jpg",
-    "designation": "CEO",
-    "department": ["Management", "Frontend", "Senior Leadership"],
-    "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
-    ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
-  },
-  {
-    "id": 2,
-    "name": "Amy Ellis",
-    "image": "/images/team/team-02.jpg",
-    "designation": "Creative Director",
-    "department": ["Marketing"],
-    "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
-    ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
-  },
-  {
-    "id": 3,
-    "name": "Margaret McKinney",
-    "image": "/images/team/team-03.jpg",
-    "designation": "CEO",
-    "department": ["Management", "App Developer"],
-    "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
-    ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
-  },
-  {
-    "id": 4,
-    "name": "Effie Frank",
-    "image": "/images/team/team-04.jpg",
-    "designation": "Software Engineer",
-    "department": ["Management", "Frontend"],
-    "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
-    ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
-  },
-  {
-    "id": 5,
-    "name": "Tyler Hardy",
-    "image": "/images/team/team-05.jpg",
-    "designation": "Software Engineer",
-    "department": ["Management", "Frontend"],
-    "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
-    ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
-  },
-  {
-    "id": 6,
-    "name": "Effie Arnold",
-    "image": "/images/team/team-06.jpg",
-    "designation": "UX Engineer",
-    "department": ["Management", "Designer"],
-    "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
-    ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
-  }
-]
+{
+  "team": [
+    {
+      "id": 2,
+      "name": "Nathan Hensher",
+      "image": "/images/team/team-02.jpg",
+      "designation": "Technical Director",
+      "description": "Nathan brings 15 years of technical expertise to our development team. He ensures all our digital solutions are built with scalability, security, and performance in mind.",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedin": "#"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Amy Ellis",
+      "image": "/images/team/team-03.jpg",
+      "designation": "Marketing Strategist",
+      "description": "Amy specialises in creating data-driven marketing strategies that deliver measurable results. She helps our clients navigate the digital landscape and achieve their growth objectives.",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedin": "#"
+      }
+    }
+  ]
+}

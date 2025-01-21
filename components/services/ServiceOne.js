@@ -29,9 +29,9 @@ const ServiceOne = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <SectionTitle
-                            title="Services we can help you with"
+                            title="We can help you with"
                             subtitle="what we can do for you"
-                            description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet."
+                            description="We understand that digital transformation can be complex. That's why we offer a range of services to help you navigate the challenges of today and tomorrow."
                             color="extra08-color"
                             alignment="center"
                         />

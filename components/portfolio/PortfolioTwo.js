@@ -16,11 +16,10 @@ const PortfolioTwo = () => {
         <div className="row">
           <div className="col-lg-12 col-md-12">
             <SectionTitle
-              title="Featured Designs"
-              subtitle="our projects"
-              titleClass="mb-0"
-              color="extra07-color"
-              alignment="center"
+              title="Our Work"
+              subtitle="portfolio"
+              color="extra08-color"
+              alignment="left"
             />
           </div>
         </div>
